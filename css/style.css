@@ -761,17 +761,17 @@ list-style: none;
    
 font-size: 17px;
 }
-.arrow_one {
+.arrow {
 
 }
-.arrow_one i{
+.arrow i{
 
-color: #f78f2f;
+   color: #9c9898;
 }
-.arrow_two{
-
+.arrow:hover i{
+color: #f88d2b;
 }
-.arrow_two i{
+.arrow i{
    color: #9c9898;
 }
 .girl_section{
@@ -944,6 +944,9 @@ font-size: 15px;
 
 margin-bottom: 12px;
 }
+.second ul li i:hover{
+   color: #00aced;
+}
 .second ul li p{
    
 font-family: "Montserrat", sans-serif;
@@ -951,6 +954,10 @@ font-family: "Montserrat", sans-serif;
 color: #989898;
    
 font-size: 14px;
+}
+
+.second ul li p:hover{
+   color: #00aced;
 }
 
 .third ul {
@@ -967,8 +974,9 @@ margin-bottom: 5px;
 
 font-family: "Montserrat", sans-serif;
 }
-.third ul li i{
 
+.third ul li:hover{
+   color: #00aced;
 }
 .forth{
 
@@ -982,6 +990,9 @@ font-size: 14px;
 color: #989898;
 
 font-family: "Montserrat", sans-serif;
+}
+.forth p:hover{
+   color: #00aced;
 }
 .forth form{
    
