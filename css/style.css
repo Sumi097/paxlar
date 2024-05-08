@@ -1032,3 +1032,11 @@ font-size: 12px;
    .finish_section{
       background-color: #000;
    }
+.finish .nav-link:hover{
+   color: #00aced;
+   transition: .5s all ease-in-out;
+}
+.finish h6:hover{
+   color: #00aced;
+   transition: .5s all ease-in-out;
+}
