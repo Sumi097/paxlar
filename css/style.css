@@ -818,7 +818,8 @@ footer{
 
 padding: 70px;
 
-background: #000;
+background: #101010;
+cursor: pointer;
 }
 .pic_sec{
 
@@ -1016,10 +1017,23 @@ padding: 8px;
 .forth form input::placeholder{
    color: #999;
    font-size:  12px;
+   font-weight: 400;
    font-family: "Montserrat", sans-serif;
 }
- .box_part{position: absolute;height: 40px;width: 40px;background: #f26c4f;color: #fff;font-size: 16px;justify-content: center;
-   display: flex;margin: auto;border-radius: 50%;align-items: center;transform: translate(213px, -71px);}
+ .box_part{
+   position: absolute;
+   height: 40px;
+   width: 40px;
+   background: #f26c4f;
+   color: #fff;
+   font-size: 16px;
+   justify-content: center;
+   display: flex;
+   margin: auto;
+   border-radius: 50%;
+   align-items: center;
+   transform: translate(214px, -71px);
+}
    .finish{
 
    }
