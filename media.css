@@ -1,0 +1,447 @@
+@media (max-width:575px) {
+
+    header h6 {
+       margin: auto;
+   }
+   .nav-item {
+       display: inline-flex;
+       justify-content: center;
+   }
+   .banner h1 {
+       font-size: 21px;
+   }
+   .banner ul li {
+     
+       font-size: 16px;
+      
+   }
+   .banner ul li a {
+       margin: 25px;
+   }
+   .banner ul li p {
+       font-size: 13px;
+   }
+   .banner .btn_download {
+    
+     
+       font-size: 13px;
+     
+   }
+   .btn_view {
+    
+       font-size: 13px;
+     
+   }
+   .heading .btn_download {
+     
+font-size: 14px;
+     
+margin-top: 10px;
+     
+width: 110px;
+     
+margin: auto;
+     
+margin-top: 13px;
+   }
+   .online_pay {
+     
+width: 100%;
+     
+margin: auto;
+     
+margin-bottom: 25px;
+   }
+   .online_pay .icon i {
+       font-size: 35px;
+   }
+   .middel {
+      
+       padding: 0px;
+   }
+   .middel h3 {
+       font-size: 20px;
+   
+   }
+   .icon_two {
+       width: 12%;
+       margin: auto;
+   }
+   .icon_two img {
+       width: 100%;
+   }
+   .coin {
+       width: 100%;
+       margin: auto;
+       margin-bottom:  30px;
+   }
+
+   .coin p {
+       
+       font-size: 13px;
+    
+   }
+   .last .btn_view {
+  
+       font-size: 13px;
+       
+       margin-top: 0;
+   }
+   .image {
+       display: none;
+   }
+
+.simple h3 {
+
+   font-size: 20px;
+
+}
+.simple ul li img {
+   width: 55px;
+}
+.simple ul li h4 {
+  
+   font-size: 17px;
+ 
+}
+.simple ul li p {
+  
+   font-size: 13px;
+
+}
+.transactions_section {
+ 
+padding: 10px 0;
+}
+.Transaction ul li {
+    font-size: 30px;
+}
+.Transaction ul li p {
+    font-size: 11px;
+}
+.safe_section {
+    display: none;
+}
+.photo {
+    width: 70%;
+    margin: auto;
+}
+.photo img {
+    width: 50%;
+}
+.expart h5 {
+    font-size: 16px;
+    
+    margin-top: 8px;
+    margin-bottom: 5px;
+   
+}
+.expart p {
+  
+    font-size: 13px;
+}
+.expart {
+    margin-bottom: 26px;
+}
+input[type="submit"] {
+  
+    padding: 7px 27px;
+    color: #ffff;
+
+}
+form input {
+    width: 95%;
+    margin-left: 20px;
+}
+
+textarea {
+    width: 95%;
+    margin-left: 20px;
+}
+.complex_section {
+    display: inline-flex;
+    padding: 50px 0;
+}
+.complex{
+
+width: 80%;
+
+margin: auto;
+}
+.complex img{
+
+width: 100%;
+}
+.blog {
+    position: relative;
+    width: 85%;
+    margin: auto;
+    margin-bottom: 25px;
+}
+.box {
+    left: 6%;
+    bottom: 24%;
+}
+.blog ul li p {
+    margin-right: 100px;
+}
+.blog h6 {
+
+    font-size: 15px;
+
+}
+.blog p {
+    font-size: 14px;
+    
+    padding: 0px 26px 20px 20px;
+}
+.blog_cont {
+    margin-top: 10px;
+}
+.girl_section {
+    padding: 0 0 30px 0;
+}
+.pic_sec {
+    text-align: center;
+}
+.first {
+    margin-bottom: 35px;
+}
+.pic_sec img {
+    width: 28%;
+}
+.class {
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.forth p {
+    text-align: center;
+}
+
+.last_part span{
+    margin: auto;
+       }
+
+       .second ul li {
+        justify-content: center;
+    
+    }
+.class span {
+    display: inline-flex;
+    margin: auto;
+}
+.second {
+    margin-bottom: 20px;
+}
+.US {
+    padding-left: 0;
+}
+.like {
+    padding-left: 0;
+    text-align: center;
+    margin-bottom: 25px;
+}
+.logo {
+    width: 90%;
+}
+
+.logo img {
+    width: 100%;
+}
+}
+@media (max-width:767px) {
+    header h6 {
+        margin: auto;
+    }
+    li.nav-item {
+        display: inline-flex;
+        margin: auto;
+    }
+    .logo {
+        width: 90%;
+    }
+    
+    .logo img {
+        width: 100%;
+    }
+    .banner h1 {
+       
+        font-size: 28px;
+      
+    }
+    .banner ul li a {
+        margin: 20px;
+    }
+    .banner ul li {
+     
+        font-size: 18px;
+    }
+
+.btn_view {
+   
+    font-size: 14px;
+    padding: 7px 14px;
+
+}
+.banner .btn_download {
+   
+    font-size: 14px;
+ 
+    padding: 7px 14px;
+}
+.online_pay {
+    width: 100%;
+    margin-bottom: 30px;
+}
+.middel h3 {
+    font-size: 23px;
+}
+
+.middel p {
+  
+    font-size: 13px;
+
+}
+.coin {
+    margin-bottom: 30px;
+}
+.icon_two {
+    width: 20%;
+    margin: auto;
+}
+.icon_two img {
+    width: 100%;
+}
+.last .btn_view {
+    padding: 7px 14px;
+    margin-top: 0;
+    margin: 0;
+}
+.image {
+    display: none;
+}
+.simple h3 {
+    font-size: 20px;
+
+}
+.simple ul li p {
+
+    font-size: 14px;
+}
+.simple ul li h4 {
+ 
+    font-size: 17px;
+
+}
+.simple ul li img {
+    width: 60px;
+}
+.transactions_section {
+    padding: 0px 0px;
+}
+.Transaction ul {
+
+    justify-content: center;
+    
+}
+.Transaction ul li {
+    font-size: 33px;
+    margin: 0px 40px;
+}
+.Transaction ul li p {
+    font-size: 13px;
+}
+.complex_section {
+    display: inline-flex;
+    padding: 45px 0;
+}
+.safe_section {
+    display: none;
+}
+.complex {
+    width: 107%;
+    display: flex;
+    justify-content: center;
+    margin-left: 100px;
+}
+.complex img {
+    width: 100%;
+}
+.expart_section {
+    padding: 30px 0;
+}
+.expart {
+    margin-bottom: 30px;
+}
+textarea {
+    width: 100%;
+
+}
+form input {
+    width: 100%;
+  
+    margin-bottom: 22px;
+  
+}
+
+.blog {
+    width: 98%;
+    margin: auto;
+    margin-bottom: 30px;
+
+}
+.box {
+    bottom: 22%;
+}
+.blog ul li p {
+    margin-right: 71px;
+}
+.blog p {
+    font-size: 14px;
+    font-weight: 300;
+    padding: 0px 0px 24px 18px;
+}
+.pic_sec {
+      padding: 0 ;
+    margin-bottom: 30px;
+ 
+    text-align: center;
+}
+ .pic_sec img {
+    width: 34%;
+}
+.first {
+    margin-bottom: 30px;
+}
+.class span {
+    display: inline-flex;
+    margin: auto;
+    margin-top: 8px;
+}
+.second ul li {
+    justify-content: center;
+}
+.US {
+    padding-left: 0;
+    text-align: center;
+}
+.second {
+    margin-bottom: 30px;
+}
+.like {
+    padding-left: 0;
+    text-align: center;
+    margin-bottom: 30px;
+}
+.forth {
+    text-align: center;
+}
+.finish h6 {
+    margin: auto;
+}
+.last_part span {
+    display: block;
+    margin: auto;
+}
+}
