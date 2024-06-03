@@ -61,7 +61,6 @@ margin-bottom: 25px;
    }
    .middel h3 {
        font-size: 20px;
-   
    }
    .icon_two {
        width: 12%;
@@ -164,7 +163,7 @@ textarea {
 }
 .complex{
 
-width: 80%;
+width: 65%;
 
 margin: auto;
 }
@@ -173,14 +172,12 @@ margin: auto;
 width: 100%;
 }
 .blog {
-    position: relative;
     width: 85%;
     margin: auto;
     margin-bottom: 25px;
 }
 .box {
-    left: 6%;
-    bottom: 24%;
+ 
 }
 .blog ul li p {
     margin-right: 100px;
@@ -247,8 +244,19 @@ width: 100%;
 }
 
 .logo img {
+    
     width: 100%;
 }
+.girl_pic {
+    width: 18%;
+    margin: auto;
+}
+.forth form {
+    position: relative;
+    width: 90%;
+    margin: auto;
+}
+
 }
 @media (max-width:767px) {
     header h6 {
@@ -267,35 +275,34 @@ width: 100%;
     }
     .banner h1 {
        
-        font-size: 28px;
-      
+font-size: 25px;
     }
     .banner ul li a {
         margin: 20px;
     }
     .banner ul li {
      
-        font-size: 18px;
+font-size: 15px;
     }
 
 .btn_view {
    
-    font-size: 14px;
-    padding: 7px 14px;
-
+font-size: 13px;
+   
+padding: 7px 14px;
 }
 .banner .btn_download {
    
-    font-size: 14px;
- 
-    padding: 7px 14px;
+font-size: 13px;
+   
+padding: 7px 14px;
 }
 .online_pay {
     width: 100%;
     margin-bottom: 30px;
 }
 .middel h3 {
-    font-size: 23px;
+    font-size: 21px;
 }
 
 .middel p {
@@ -331,23 +338,22 @@ width: 100%;
 }
 .simple ul li h4 {
  
-    font-size: 17px;
-
+font-size: 17px;
 }
 .simple ul li img {
-    width: 60px;
+    width: 50px;
+    height: 50px;
 }
 .transactions_section {
-    padding: 0px 0px;
+    background: #ff9b1a;
+    padding: 14px 90px;
 }
 .Transaction ul {
-
-    justify-content: center;
-    
 }
 .Transaction ul li {
-    font-size: 33px;
-    margin: 0px 40px;
+    font-size: 17px;
+    margin: 0px 30px;
+    width: 30%;
 }
 .Transaction ul li p {
     font-size: 13px;
@@ -360,10 +366,8 @@ width: 100%;
     display: none;
 }
 .complex {
-    width: 107%;
-    display: flex;
-    justify-content: center;
-    margin-left: 100px;
+    width: 87%;
+    margin: auto;
 }
 .complex img {
     width: 100%;
@@ -392,7 +396,7 @@ form input {
 
 }
 .box {
-    bottom: 22%;
+    /* bottom: 22%; */
 }
 .blog ul li p {
     margin-right: 71px;
@@ -410,6 +414,10 @@ form input {
 }
  .pic_sec img {
     width: 34%;
+}
+.girl_pic {
+    width: 18%;
+    margin: auto;
 }
 .first {
     margin-bottom: 30px;
@@ -443,5 +451,13 @@ form input {
 .last_part span {
     display: block;
     margin: auto;
+}
+.forth form {
+    position: relative;
+    width: 90%;
+    margin: auto;
+}
+.last_part h3 {
+    text-align: center;
 }
 }
