@@ -256,6 +256,17 @@ width: 100%;
     width: 90%;
     margin: auto;
 }
+.girl_carousel .owl-nav .owl-next {
+    position: absolute;
+    top: 50%;
+    right: 17%;
+}
+.girl_carousel .owl-nav .owl-prev {
+    position: absolute;
+    top: 50%;
+    left: 17%;
+    height: 0;
+}
 
 }
 @media (max-width:767px) {
@@ -459,5 +470,16 @@ form input {
 }
 .last_part h3 {
     text-align: center;
+}
+.girl_carousel .owl-nav .owl-next {
+    position: absolute;
+    top: 50%;
+    right: 17%;
+}
+.girl_carousel .owl-nav .owl-prev {
+    position: absolute;
+    top: 50%;
+    left: 17%;
+    height: 0;
 }
 }
