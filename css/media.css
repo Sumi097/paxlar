@@ -348,15 +348,15 @@ font-size: 17px;
     background: #ff9b1a;
     padding: 14px 90px;
 }
-.Transaction ul {
-}
+.Transaction ul {justify-content: center;}
 .Transaction ul li {
+    display: block;
     font-size: 17px;
-    margin: 0px 30px;
-    width: 30%;
+    margin: 0px 26px;
+    width: 25%;
 }
 .Transaction ul li p {
-    font-size: 13px;
+    font-size: 9px;
 }
 .complex_section {
     display: inline-flex;
